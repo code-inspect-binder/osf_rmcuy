@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo 'setwd("/home/jovyan/rmcuy_src/Code for analysis")' >> /home/jovyan/.Rprofile
